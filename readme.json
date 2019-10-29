@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2019-10-29T15:18:55.375Z",
+    "end": "2019-10-29T15:18:55.380Z",
+    "duration": 5
+  },
+  "tests": [
+    {
+      "title": "should return expected string",
+      "fullTitle": "Programmatic usage suite #index should return expected string",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "should return expected string",
+      "fullTitle": "Programmatic usage suite #index should return expected string",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
