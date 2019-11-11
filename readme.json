@@ -7,7 +7,7 @@
     "failures": 0,
     "start": "2019-10-29T15:18:55.375Z",
     "end": "2019-10-29T15:18:55.380Z",
-    "duration": 5
+    "duration": "{\"name\":\"AssertionError\",\"actual\":[1,[2],3,[4],5],\"expected\":[1,2,[3,[4]],5],\"operator\":\"deepStrictEqual\",\"message\":\"[ 1, [ 2 ], 3, [ 4 ], 5 ] deepStrictEqual [ 1, 2, [ 3, [ 4 ] ], 5 ]\",\"generatedMessage\":true}"
   },
   "tests": [
     {
